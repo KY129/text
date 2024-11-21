@@ -5,7 +5,7 @@ git config --global user.email""
 git config --list
 
 git branch -M main
-
 git remote add orgin https://github.com/KY129/text.git
+
 
 git push origin main
