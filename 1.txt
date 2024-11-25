@@ -1,11 +1,2 @@
-내용 변경
-
-git config --global user.name "KY129"
-git config --global user.email""
-git config --list
-
-git branch -M main
-git remote add orgin https://github.com/KY129/text.git
-
-
-git push origin main
+내용
+123123
